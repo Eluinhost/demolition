@@ -1,0 +1,6 @@
+name: ${project.name}
+main: ${project.groupId}.${project.artifactId}.Demolition
+version: ${project.version}
+load: STARTUP
+author: ghowden/Eluinhost
+database: false

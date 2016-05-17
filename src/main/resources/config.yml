@@ -1,0 +1,13 @@
+enderman have tnt chance: 100
+tnt auto prime on player place chance: 100
+tnt auto prime on enderman place chance: 100
+creepers are powered chance: 10
+skeletons have fire bows chance: 10
+skeletons have fire bows drop chance: 10
+vein rules:
+  size: 16
+  rounds: 20
+  min height: 0
+  max height: 128
+  probability: 100
+  biomes: []
