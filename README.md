@@ -49,7 +49,7 @@ Some values for vanilla ores (these may be very out of date, but close
 enough):
 
 | Ore | Size | Rounds | Height |
-|-|-|-|-|
+|---|---|---|---|
 Coal | 16 | 20 | 0 - 128 |
 Iron | 8 | 20 | 0 - 64 |
 Gold | 8 | 2 | 0 - 32 |
